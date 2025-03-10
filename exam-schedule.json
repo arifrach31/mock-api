@@ -15,67 +15,6 @@
         "course": "MTK X X-TKJ-2"
       }
     ],
-    "futureExams": [
-      {
-        "id": "6780eb9ca19d2cff2e396e2d",
-        "examType": {
-          "examName": "UH"
-        },
-        "name": "Ujian Fisika",
-        "startExam": "2025-02-25T09:00:00.000Z",
-        "endExam": "2025-02-25T11:00:00.000Z",
-        "course": "Fisika X-TKJ-2"
-      },
-      {
-        "id": "6789cb4494f63e55e7c50a77",
-        "examType": {
-          "examName": "UH"
-        },
-        "name": "Ujian Kimia",
-        "startExam": "2025-03-01T07:30:00.000Z",
-        "endExam": "2025-03-01T09:00:00.000Z",
-        "course": "Kimia X-TKJ-2"
-      },
-      {
-        "id": "6780eb9ca19d2cff2e396e2d",
-        "examType": {
-          "examName": "UH"
-        },
-        "name": "Ujian Fisika",
-        "startExam": "2025-02-25T09:00:00.000Z",
-        "endExam": "2025-02-25T11:00:00.000Z",
-        "course": "Fisika X-TKJ-2"
-      },
-      {
-        "id": "6789cb4494f63e55e7c50a77",
-        "examType": {
-          "examName": "UH"
-        },
-        "name": "Ujian Kimia",
-        "startExam": "2025-03-01T07:30:00.000Z",
-        "endExam": "2025-03-01T09:00:00.000Z",
-        "course": "Kimia X-TKJ-2"
-      },
-      {
-        "id": "6780eb9ca19d2cff2e396e2d",
-        "examType": {
-          "examName": "UH"
-        },
-        "name": "Ujian Fisika",
-        "startExam": "2025-02-25T09:00:00.000Z",
-        "endExam": "2025-02-25T11:00:00.000Z",
-        "course": "Fisika X-TKJ-2"
-      },
-      {
-        "id": "6789cb4494f63e55e7c50a77",
-        "examType": {
-          "examName": "UH"
-        },
-        "name": "Ujian Kimia",
-        "startExam": "2025-03-01T07:30:00.000Z",
-        "endExam": "2025-03-01T09:00:00.000Z",
-        "course": "Kimia X-TKJ-2"
-      }
-    ]
+    "futureExams": []
   }
 }
