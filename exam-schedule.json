@@ -3,18 +3,7 @@
   "code": 200,
   "message": "Data retrieved successfully",
   "data": {
-    "readyExams": [
-      {
-        "id": "67905685306db97b0c82b28f",
-        "examType": {
-          "examName": "UH"
-        },
-        "name": "Ujian Matematika",
-        "startExam": "2025-02-22T02:25:00.000Z",
-        "endExam": "2025-02-22T05:00:00.000Z",
-        "course": "MTK X X-TKJ-2"
-      }
-    ],
+    "readyExams": [],
     "futureExams": []
   }
 }
